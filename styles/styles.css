@@ -1,12 +1,44 @@
 body {
   background: #f4e9c8;
-  color:#88350b ;
-  text-align: center;
+  color: #88350b;
+  margin: 50px auto;
+  width: 800px;
 }
 a {
-    color: #88350b;
-  
+  color: #88350b;
+}
+h1 {
+  font-size: 48px;
+  margin-top: 20px;
+  text-align: center;
+}
+h2 {
+  margin-top: 50px;
+  text-align: center;
+}
+p {
+  font-size: large;
+  line-height: 1.5;
+}
+.about-croissants {
+  margin: 50px auto;
+}
+.navigation-links {
+  margin: 20px auto;
+  text-align: center;
+
 }
 
-
-
+.navigation-links a {
+  margin: 10px;
+    color: black;
+}
+.croissants {
+  display: block;
+  max-width: 50%;
+  margin: 30px auto;
+  border-radius: 15px;
+}
+.contact-us {
+  text-align: center;
+}
