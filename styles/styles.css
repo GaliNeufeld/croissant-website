@@ -1,9 +1,8 @@
 body {
-  display: flex;
   background: #f4e9c8;
   color: #88350b;
   margin: 50px auto;
-  width: 800px;
+  width: 80%;
 }
 a {
   color: #88350b;
